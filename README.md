@@ -117,3 +117,4 @@ For additional information see: disabilitysupport.gwu.edu/
 *MENTAL HEALTH SERVICES  202-994-5300*
 The University's Mental Health Services offers 24/7 assistance and referral to address students' personal, social, career, and study skills problems. Services for students include: crisis and emergency mental health consultations confidential assessment, counseling services (individual and small group), and referrals. 
 For additional information see: counselingcenter.gwu.edu/ 
+# nlp_materials
